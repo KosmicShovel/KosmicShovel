@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently working on ![Inferno Omnia](https://github.com/Inferno-Dev-Team/Inferno-Omnia)
 - 🌱 I’m currently learning C# and C++
-- 📫 How to reach me: KosmicDev#9999 on Discord
+- 📫 How to reach me: KosmicDev#9999 on Discord or https://discord.gg/yyJP5HX
