@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ![Inferno Omnia](https://github.com/Inferno-Dev-Team/Inferno-Omnia)
 - 🌱 I’m currently learning C# and C++
-- 📫 How to reach me: KosmicDev#9999 on Discord or [Join our server](https://discord.gg/yyJP5HX)
+- 📫 How to reach me: KosmicDev#9999 on Discord or [Join the server](https://discord.gg/JB8KHnJj69)
 - 🍉 Currently working on ![MelonLoader](https://github.com/LavaGang/MelonLoader) Mods
 
 [![Top Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?username=KosmicShovel&show_icons=true&theme=highcontrast)]()
