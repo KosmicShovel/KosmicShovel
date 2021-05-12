@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K04LYSO)
 ## You might know me from BTD6 modding or my work in the DBC Community
 
 - 🔭 I’m currently working on ![Inferno Omnia](https://github.com/Inferno-Dev-Team/Inferno-Omnia)
