@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K04LYSO)
-## You might know me from BTD6 modding or my work in the DBC Community
+## You might know me from my BTD6 modding
 
 - 🔭 I’m currently working on ![BTD6E Modules](https://github.com/1330-Studios/BTD6E-Modules)
 - 🌱 I’m currently learning C# and C++
