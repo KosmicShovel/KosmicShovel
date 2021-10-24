@@ -46,7 +46,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Secure_Shell" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/> </a>
   <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
+  <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/KosmicShovel/KosmicShovel/main/u.png" alt="unity" width="40" height="40"/> </a>
   <a href="https://github.com/LavaGang/MelonLoader" target="_blank"> <img src="https://raw.githubusercontent.com/LavaGang/MelonWiki/master/docs/_media/logo.svg" alt="melonloader" width="40" height="40"/> </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
