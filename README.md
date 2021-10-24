@@ -1,14 +1,14 @@
 ### Hi there, I'm Matthew Guerra 👋
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K04LYSO)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/KosmicShovel/KosmicShovel/main/t.gif" width="408" height="318" />
-
 ### You might know me from my BTD6 modding
 
 - 🔭 I’m currently focusing on ![BTD6E Modules](https://github.com/1330-Studios/BTD6E-Modules)
-- 🔥 Working on a ![Mono](https://github.com/mono/mono) runtime injector called ![Lantern Injector](https://github.com/1330-Studios/LanternIgniter)
+- 🔥 Working on a ![Mono](https://github.com/mono/mono) runtime injector called ![Lantern Igniter](https://github.com/1330-Studios/LanternIgniter)
 - 🌱 I’m currently learning C# and C++
 - 📫 How to reach me: Kosmic#4494 on Discord or [Join my server](https://discord.gg/1330studios)
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/KosmicShovel/KosmicShovel/main/t.gif" width="408" height="318" />
 
 ### Languages, Operating Systems, and Tools I use
 <p align="left">
