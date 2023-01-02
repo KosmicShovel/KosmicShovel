@@ -4,7 +4,6 @@
 ### You might know me from my BTD6 modding
 
 - 🔭 I’m currently focusing on ![BTD6E Modules](https://github.com/1330-Studios/BTD6E-Modules)
-- 🔥 Working on a ![Mono](https://github.com/mono/mono) runtime injector called ![Lantern Igniter](https://github.com/1330-Studios/LanternIgniter)
 - 🌱 I’m currently learning C# and C++
 - 📫 How to reach me: Kosmic#4494 on Discord or [Join my server](https://discord.gg/1330studios)
 
